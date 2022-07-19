@@ -37,16 +37,16 @@ header h3{
 header p{
     color: white;
 }
-.arrow{
+#arrow{
     color: white;
-    margin-top: 5rem;
-    font-size: 5em;
+    margin-top: 1rem;
+    font-size: 7em;
     animation: arrow 2s ease-in-out infinite;
 }
 @keyframes arrow {
-    0%{color: #3c6382;}
-    50%{color: #0a3d62;}
-    100%{color: #3c6382}
+    0%{color: #3b6689;}
+    50%{color: #254d69;}
+    100%{color: #497293}
 }
 .container{
     width: 100%;
